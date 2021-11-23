@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Social Graph and Interaction Project</title>
-    <link>https://lolnetwork.github.io/project_website_demo/posts/</link>
+    <link>https://plevantem.github.io/lolnetwork.github.io-/posts/</link>
     <description>Recent content in Posts on Social Graph and Interaction Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Nov 2021 18:04:59 +0100</lastBuildDate><atom:link href="https://lolnetwork.github.io/project_website_demo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Nov 2021 18:04:59 +0100</lastBuildDate><atom:link href="https://plevantem.github.io/lolnetwork.github.io-/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Part1 Idea and Network Analysis</title>
-      <link>https://lolnetwork.github.io/project_website_demo/posts/my-first-post/</link>
+      <link>https://plevantem.github.io/lolnetwork.github.io-/posts/my-first-post/</link>
       <pubDate>Tue, 23 Nov 2021 18:04:59 +0100</pubDate>
       
-      <guid>https://lolnetwork.github.io/project_website_demo/posts/my-first-post/</guid>
+      <guid>https://plevantem.github.io/lolnetwork.github.io-/posts/my-first-post/</guid>
       <description></description>
     </item>
     
